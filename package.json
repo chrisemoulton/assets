@@ -28,7 +28,7 @@
     "async-each-object": "0.0.2",
     "fs-extra": "0.16.5",
     "underscore": "1.8.2",
-    "cli": "0.6.5"
+    "cli": "1.0.0"
   },
   "engine": "node >= 0.4.1"
 }
